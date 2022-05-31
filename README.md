@@ -1,20 +1,11 @@
-[![Github Actions Status for
-
-Vinicius-CS/Calculadora1](https://github.com/Vinicius-CS/Calculadora1/tree/master/.github/workflows/Integra%C3%A7%C3%A3o%20continua%2
-0de%20Java%20com%20Maven/badge.svg)](https://github.com/Vinicius-CS/Calculadora1/actions)
-
-[![Quality Gate
-Status](https://sonarcloud.io/api/project_badges/measure?project=Calculadora1&metric=alert_status)](https://sonarcloud.io/sum
-mary/new_code?id=Calculadora1)
-
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Calculadora1&metric=coverage)](https://sonarcloud.io/
-component_measures?id=Calculadora1&metric=coverage)
+[![Github Actions Status for Vinicius-CS/Calculadora1](https://github.com/Vinicius-CS/Calculadora1/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/Vinicius-CS/Calculadora1/actions/workflows/maven.yml) [![Quality Gate Status](sonarcloud.io/api/project_badges/measure?project=Vinicius-CS_Calculadora1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Vinicius-CS_Calculadora1) [![Coverage]([https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=Vinicius-CS_Calculadora1&metric=coverage))](https://sonarcloud.io/component_measures?id=Vinicius-CS_Calculadora1&metric=coverage)
 
 # Calculadora com CI.
 Utiliza 3 ambientes:
 - dev - Desenvolvimento
 - hmg - Homologação
 - prd - Produção
+
 Pipeline
 - dev - Compilação
 - hmg - Compilação, Testes, Análise Código, Cobertura Código
